@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when using catch-all routes (`/*`) in React Router Dom v6.  The catch-all route unintentionally overrides other defined routes, even when those routes match the URL.  The solution shows how to correctly order routes to avoid this problem.
